@@ -324,7 +324,7 @@ namespace RWGraphics
 		}
 		method getDifference()
 		{
-			return abs(this->t.to - this->t.from);
+			return 1000 / abs(this->t.to - this->t.from);
 		}
 		method setDifference(int diff = 1)
 		{

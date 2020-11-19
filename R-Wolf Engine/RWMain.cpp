@@ -73,7 +73,7 @@ int __stdcall WinMain(HINSTANCE hInst, HINSTANCE hPrevInst, LPSTR lpCmdLine, int
 	HWND windowHandle = CreateWindowEx(
 		WS_EX_OVERLAPPEDWINDOW,
 		wcex.lpszClassName,
-		"R-Wolf Evo Engine",
+		"KT-X Lab Visio | v. R1.2",
 		WS_MINIMIZEBOX,
 		CW_USEDEFAULT,
 		CW_USEDEFAULT,

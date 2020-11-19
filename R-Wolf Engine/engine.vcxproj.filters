@@ -104,9 +104,6 @@
     <ClInclude Include="Kernel1_DescriptorTable.h">
       <Filter>Файлы заголовков\Engine</Filter>
     </ClInclude>
-    <ClInclude Include="TG_Logic.hpp">
-      <Filter>Файлы заголовков\Game</Filter>
-    </ClInclude>
     <ClInclude Include="TG_Level.hpp">
       <Filter>Файлы заголовков\Game</Filter>
     </ClInclude>

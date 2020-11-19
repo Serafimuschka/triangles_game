@@ -179,7 +179,6 @@
     <ClInclude Include="RWVectorMath.h" />
     <ClInclude Include="RWXMLParser.h" />
     <ClInclude Include="TG_Level.hpp" />
-    <ClInclude Include="TG_Logic.hpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="resources\img\cursor.PNG" />
